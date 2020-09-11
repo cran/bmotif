@@ -1,7 +1,7 @@
-005876fe99e99f7365cdd4729976c453 *DESCRIPTION
+bafbd9b3630c84e1f04439ad027aef9d *DESCRIPTION
 0daa4d32307d2417ea2a9910e79e4f7b *LICENSE
 543d22bb96b333af06816be028424734 *NAMESPACE
-b9503f3958aa24ced4b2a5f51add24cb *NEWS
+0e8bce810e7631f7c44c2e5c17262b6e *NEWS
 2664439d496dd7a1873f6f1220ea5c6a *R/RcppExports.R
 b0160990e9277062b8b2afc6b7a508d5 *R/countmotif.R
 cf870bd60ba013282850892645254a3c *R/countposition.R
@@ -28,7 +28,7 @@ bd757ea7fa34c5d77b0d05723ce05bb4 *README.md
 b99e0f31e066457c9636df0c8035e93c *inst/CITATION
 396fd12d0e665d659f6feefe60274292 *inst/doc/bmotif-dictionary.R
 f08ac1353d9f5db7f19ae4ce2cc0a537 *inst/doc/bmotif-dictionary.Rmd
-4bec32f369e19d19b6222f4a01a3853b *inst/doc/bmotif-dictionary.html
+346eb65aa03c59137b45365f7708ae46 *inst/doc/bmotif-dictionary.html
 fa823980bdef432004f7c31356223e63 *man/figures/dictionary.png
 a2134fe996ea9cb906385c4acedf37c6 *man/figures/motif5.png
 bb70e56b0d2b15c1566f0d051731881c *man/link_positions.Rd
